@@ -1,0 +1,17 @@
+* ¿Por qué?
+
+** Running a Local HTML Server via Python
+
+#+begin_src bash
+python -m http.server
+#+end_src
+
+In your web browser navigate to:
+
+[[http://localhost:8000/]]
+
+Find the proper directory.
+
+For more information see: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server
+
+** Pushing Changes to the Website

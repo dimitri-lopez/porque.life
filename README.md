@@ -1,2 +1,0 @@
-# porque.life
-¿Por qué?
